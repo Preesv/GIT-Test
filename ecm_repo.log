@@ -1,0 +1,206 @@
+[temtusr@IEMSLAMSREP02 etllogs]$ cat ecm-IEMSLAMSREP02-11-5-2018.log
+ECM : 2018-11-05-11:45:03 : temtusr : ##############################################################################################
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: ECM output generation process started.
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching policy information from SCA.
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for A068-C-Gv3.0L-W12
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for A068-C-Gv4.0C-W08
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for A068-C-Gv4.0D-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for A068-C-Gv4.0D-VIO
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv3.0B-EXCHANGE-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv3.0B-TOMCAT-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv4.0A-Oracle-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv4.0-APACHE-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv4.0-DB2-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv4.0-MQM-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv5.0C-IIS-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-A-Fv5.0-WAS-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-F4.0A-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-F4.0B-LINUX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-Fv3.0B-FRAMEWORK-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-Fv3.0B-IT6-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-FV3.0B-MSSQL-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-Fv3.0C-MYSQL-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-FV3.0D-SSH-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-Fv3.0G-W2K3
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-Fv3.0H-W2K8
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for B045-C-FV3.0I-W2K12
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for C060-C-Gv4.0A-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv3.0D-ITM-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv3.0D-ITM-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv3.0F-Exchange2010-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv3.0G-SSH-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv3.0L-W12
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0B-Apache-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0B-Apache-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0B-TSM-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0C-ORACLESAP-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0C-ORACLE-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0C-SAP-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0C-SUDO-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0C-W08
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0D-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0D-DB2-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0D-TOMCAT-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0E-MQM-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0E-MSSQL-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0F-LNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv4.0F-MySQL-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv5.0C-IIS-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F033-C-Gv5.0C-WAS-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F058-C-Gv1.0D-W16
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F058-C-Gv4.0Fa-LNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for F058-C-Gv4.0F-LNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191_UNIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv1.0Di-W16
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv3.0Gi-SSH-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv3.0G-SSH-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv3.0I-W2K12
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv3.0Li-W12
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv4.0B-LINUX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv4.0Ci-SUDO-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv4.0Ci-W08
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv4.0C-SUDO-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv4.0Di-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Gv4.0Fi-LNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Iv12.0-SUDO-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Iv12.2-SSH-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Iv12.2-W08
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Iv12.2-W12
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for I191-C-Iv12.7-LNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for IEM0-C-Iv12.2-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for ITI8-C-Iv12.0-SUDO-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for ITI8-C-Iv12.1-IT6-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for ITI8-C-Iv12.2-SSH-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for ITI8-C-Iv12.5-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for ITI8-C-Iv9.0-FRAMEWORK-UNX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for S077-C-f-FRAMEWORK-W2K8
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for S077-C-Fv3.0-IT6-WIN
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for S077-C-Fv3.1-W2K8
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching scan date time for S077-C-Fv4.0A-AIX
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for S077-C-Fv4.0A-AIX
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv4.0A-AIX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for S077-C-Fv3.1-W2K8
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.1-W2K8. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for S077-C-Fv3.0-IT6-WIN
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-Fv3.0-IT6-WIN. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for S077-C-f-FRAMEWORK-W2K8
+ERROR : Incomplete data present in SCA for policy S077-C-f-FRAMEWORK-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-f-FRAMEWORK-W2K8. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy S077-C-f-FRAMEWORK-W2K8. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for ITI8-C-Iv9.0-FRAMEWORK-UNX
+ERROR : Incomplete data present in SCA for policy ITI8-C-Iv9.0-FRAMEWORK-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for ITI8-C-Iv12.5-AIX
+ERROR : Incomplete data present in SCA for policy ITI8-C-Iv12.5-AIX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for ITI8-C-Iv12.2-SSH-UNX
+ERROR : Incomplete data present in SCA for policy ITI8-C-Iv12.2-SSH-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for ITI8-C-Iv12.1-IT6-UNX
+ERROR : Incomplete data present in SCA for policy ITI8-C-Iv12.1-IT6-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for ITI8-C-Iv12.0-SUDO-UNX
+ERROR : Incomplete data present in SCA for policy ITI8-C-Iv12.0-SUDO-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv5.0C-IIS-WIN
+ERROR : Incomplete data present in SCA for policy F033-C-Gv5.0C-IIS-WIN. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv4.0D-DB2-UNX
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0D-DB2-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv4.0D-AIX
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0D-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0D-AIX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv4.0C-W08
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-W08. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-W08. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-W08. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-W08. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv4.0C-SUDO-UNX
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-SUDO-UNX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-SUDO-UNX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-SUDO-UNX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-SUDO-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv4.0C-SAP-WIN
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-SAP-WIN. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv4.0C-ORACLE-WIN
+ERROR : Incomplete data present in SCA for policy F033-C-Gv4.0C-ORACLE-WIN. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv3.0L-W12
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0L-W12. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv3.0D-ITM-WIN
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0D-ITM-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0D-ITM-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0D-ITM-WIN. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0D-ITM-WIN. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for F033-C-Gv3.0D-ITM-UNX
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0D-ITM-UNX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy F033-C-Gv3.0D-ITM-UNX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for C060-C-Gv4.0A-AIX
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ERROR : Incomplete data present in SCA for policy C060-C-Gv4.0A-AIX. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Fetching data for B045-A-Fv5.0-WAS-WIN
+ERROR : Incomplete data present in SCA for policy B045-A-Fv5.0-WAS-WIN. Skipping the policy!
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: Total files in temporary file Repository:0
+ECM : 2018-11-05-11:45:03 : temtusr : INFORMATION: ECM output generation process Ended.
+ECM : 2018-11-05-11:45:03 : temtusr : ##############################################################################################
+[temtusr@IEMSLAMSREP02 etllogs]$
