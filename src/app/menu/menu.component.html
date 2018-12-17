@@ -2,14 +2,14 @@
 fxLayout = "column" 
 fxLayoutGap = "10px">
 
+<h1>Choose the Menu..</h1>
 <mat-list fxFlex>
-<mat-list-item *ngFor="let dish for dishes">
-<img matListAvatar src={{dish.image}} alt={{dish.name}}></img>
-<h1 matLine>{{dish.name}}</h1>
-<p matLine>
-<span>{{dish.description}}</span>
-</p>
-</mat-list-item>
+    <mat-list-item *ngFor="let dish of dishes">
+      <img matListAvatar src={{dish.image}} alt={{dish.name}}>
+      <h1 matLine>{{dish.name}}</h1>
+      <p matLine>
+            <span>{{dish.description}}</span>
+      </p>
+    </mat-list-item>
 </mat-list>
 </div>
-

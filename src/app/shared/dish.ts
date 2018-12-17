@@ -1,10 +1,10 @@
 export class Dish {
-id: String;
-name : String;
-image : String;
-category : String;
-featured : boolean;
-label : String;
-price : String;
-description : String;
+    id: string;
+    name: string;
+    image: string;
+    category: string;
+    featured: boolean;
+    label: string;
+    price: string;
+    description: string;
 }
