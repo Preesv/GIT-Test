@@ -11,14 +11,14 @@
 
   <div fxFlex ng-controller="myCtrl">
     <mat-grid-list cols="2" rowHeight="200px">
-      <mat-grid-tile *ngFor="let dish of dishes">
-        <img height="200px" src={{dish.image}} alt={{dish.name}}>
+      <mat-grid-tile *ngFor="let di of dishes" (click)="onSelect(di)" aria-live="assertive">
+        <img height="200px" src={{di.image}} alt={{di.name}}>
         <mat-grid-tile-footer>
-          <h1>{{dish.name | uppercase}}</h1>
-          <button mat-flat aria-label="toggle" (click)=onClick(dish.description)>Details</button>
+          <h1>{{di.name | uppercase}}</h1>
         </mat-grid-tile-footer>
       </mat-grid-tile>
     </mat-grid-list>
   </div>
   </div>
 
+  <app-dishdetail [selectItem]="selectedDish"></app-dishdetail>
