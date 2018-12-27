@@ -7,19 +7,27 @@ import { AppComponent } from './app.component';
 import { MenuComponent } from './menu/menu.component';
 import {MatListModule} from "@angular/material/list";
 import { DishdetailComponent } from './dishdetail/dishdetail.component';
+import { MatGridListModule } from '@angular/material/grid-list';
+import { MatCardModule } from '@angular/material/card';
+import { MatButtonModule } from '@angular/material/button';
+import { Pipe, PipeTransform } from '@angular/core';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuComponent,
-    DishdetailComponent
+    DishdetailComponent,
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
     MatToolbarModule,
     FlexLayoutModule,
-    MatListModule
+    MatListModule,
+    MatGridListModule,
+    MatCardModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

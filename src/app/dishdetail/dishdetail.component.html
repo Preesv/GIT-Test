@@ -1,3 +1,24 @@
-<p>
-  dishdetail works here!
-</p>
+<div class="container"
+    fxLayoutAlign.gt-md="space-left"
+    fxLayoutGap.xs="10">
+
+  <div fxFlex="40">
+      <mat-card *ngIf="dish" class="Dish">
+              <mat-card-title>{{dish.name | uppercase}}</mat-card-title> 
+              <img height="400px" src={{dish.image}} alt={{dish.name}}>         
+
+        </mat-card>
+  </div>
+
+  <div fxFlex="60">
+    <mat-card-title>Comments</mat-card-title>
+      <mat-list *ngIf="dish" class="dish" width=10px font=arial>
+        <div *ngFor="let index of dish.comments">
+          <mat-list-item>{{index.comment}}</mat-list-item>
+          <mat-list-item>{{index.rating}} stars</mat-list-item>
+          <mat-list-item>--{{index.author}} | {{index.date }}</mat-list-item>
+        </div>
+      </mat-list>
+  </div>
+
+</div>
